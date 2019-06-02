@@ -134,7 +134,7 @@ class CountriesTableSeeder extends Seeder {
 			array('code' => 'LT', 'name' => 'Lithuania'),
 			array('code' => 'LU', 'name' => 'Luxembourg'),
 			array('code' => 'MO', 'name' => 'Macau'),
-			array('code' => 'MK', 'name' => 'Macedonia'),
+			array('code' => 'MK', 'name' => 'North Macedonia'),
 			array('code' => 'MG', 'name' => 'Madagascar'),
 			array('code' => 'MW', 'name' => 'Malawi'),
 			array('code' => 'MY', 'name' => 'Malaysia'),
